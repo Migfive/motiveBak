@@ -18,4 +18,4 @@ Su función principal es evitar errores de **CORS** cuando se usa en aplicacione
 ## 📂 Estructura del proyecto
 
 ## 🌐 API Pública
-Puede acceder a la API pública desde aquí 👉 <a href="https://motive-bak-gmma.vercel.app/api/quotes" target = "_blank">https://motive-bak-gmma.vercel.app/api/quotes</a>  
+Puede acceder a la API pública desde aquí 👉 https://motive-bak-gmma.vercel.app/api/quotes
