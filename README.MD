@@ -17,3 +17,5 @@ Su función principal es evitar errores de **CORS** cuando se usa en aplicacione
 
 ## 📂 Estructura del proyecto
 
+## link de acceso al archivo en funcionamiento 
+[https://motive-bak-gmma.vercel.app/api/quotes] https://motive-bak-gmma.vercel.app/api/quotes 
